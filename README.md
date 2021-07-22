@@ -38,5 +38,33 @@ SLIDESHOW
 
 ## Brainstorm Piece Options
 
-![Sketches 1]
-(https://kratzokengineeringportfolio.weebly.com/uploads/1/7/7/6/17766311/6648720_orig.jpg)
+## PUZZLE CUBE DESIGN PROPOSAL
+I used my cube options drawings to put together a challenging 3x3x3 cube, this is my design proposal.
+
+## ISOMETRIC SKETCHES OF EACH PIECE
+These are isometric sketches of my puzzle pieces.
+
+## MULTIVIEW DRAWINGS
+These sketches depict the dimensions of my pieces.
+
+## PRESENTATION ISOMETRIC VIEW
+This drawing shows how to construct my cube via isometric drawings.
+
+## INVENTOR PART FILES
+
+## INVENTOR DRAWING FILES
+
+## INVENTOR ASSEMBLY FILE
+
+## INVENTOR PRESENTATION FILE
+INVENTOR FINAL CUBE DRAWING FILE
+STATISTICS EXCEL SPREADSHEET
+DECISION MATRIX
+FINAL PRODUCT
+REFLECTION
+When someone says “I used a design process to solve the problem at hand” that means that they had a problem to solve. They brainstormed different ways to solve the problem, for me that was the list of puzzle cube combinations that I could make. Then they looked for the best way to solve the problem with the ideas generated in the previous step, that was when I played with the different combinations and created a couple of cubes out of math blocks to see which was most difficult. Next, it's time to document the ideas that I generated, that would be when I sketched out all of the pieces that I made and made the pieces on inventor. After that is assembly, putting the cube together, and finally, presentation, which is this website's role.
+
+My design meets every criterion of the design criteria. The puzzle is made of 27 –  ¾” hardwood cubes, contains exactly five puzzle which all consist of at least four, but no more than six hardwood cubes that are permanently attached to each other.
+Also, no two puzzle pieces can be the same, the five puzzle pieces assemble to form a 2 ¼” cube and lastly, some puzzle parts interlock. My design definitely provides an appropriate degree of challenge to a person who is three years of age or older. I know this because, not only I am more than three years old but I am also the creator, and I still have trouble assembling it sometimes. Also, one of my peers took 10 minutes trying to solve it, and needed a hint and several more minutes to solve finish it.
+
+If I could, I would make a 4x4x4 cube, which would be even more difficult.
