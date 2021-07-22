@@ -34,8 +34,6 @@ This project was designed for the Introduction to Engineering Design (IED) class
 
 ## Puzzle Cube Research
 
-SLIDESHOW
-
 ## Brainstorm Piece Options
 
 ## PUZZLE CUBE DESIGN PROPOSAL
@@ -57,11 +55,16 @@ This drawing shows how to construct my cube via isometric drawings.
 ## INVENTOR ASSEMBLY FILE
 
 ## INVENTOR PRESENTATION FILE
-INVENTOR FINAL CUBE DRAWING FILE
-STATISTICS EXCEL SPREADSHEET
-DECISION MATRIX
-FINAL PRODUCT
-REFLECTION
+
+## INVENTOR FINAL CUBE DRAWING FILE
+
+## STATISTICS EXCEL SPREADSHEET
+
+## DECISION MATRIX
+
+## FINAL PRODUCT
+
+## REFLECTION
 When someone says “I used a design process to solve the problem at hand” that means that they had a problem to solve. They brainstormed different ways to solve the problem, for me that was the list of puzzle cube combinations that I could make. Then they looked for the best way to solve the problem with the ideas generated in the previous step, that was when I played with the different combinations and created a couple of cubes out of math blocks to see which was most difficult. Next, it's time to document the ideas that I generated, that would be when I sketched out all of the pieces that I made and made the pieces on inventor. After that is assembly, putting the cube together, and finally, presentation, which is this website's role.
 
 My design meets every criterion of the design criteria. The puzzle is made of 27 –  ¾” hardwood cubes, contains exactly five puzzle which all consist of at least four, but no more than six hardwood cubes that are permanently attached to each other.
