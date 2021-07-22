@@ -34,7 +34,7 @@ This project was designed for the Introduction to Engineering Design (IED) class
 
 ## Puzzle Cube Research
 
-[SLIDESHOW]
+SLIDESHOW
 
 ## Brainstorm Piece Options
 
