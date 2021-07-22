@@ -34,3 +34,9 @@ This project was designed for the Introduction to Engineering Design (IED) class
 
 ## Puzzle Cube Research
 
+[SLIDESHOW]
+
+## Brainstorm Piece Options
+
+![Sketches 1]
+(https://kratzokengineeringportfolio.weebly.com/uploads/1/7/7/6/17766311/6648720_orig.jpg)
